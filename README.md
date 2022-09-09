@@ -1,2 +1,2 @@
 # ballShop
-https://vityapoprozhuk.github.io/memoryGame
+https://vityapoprozhuk.github.io/MemoryGame/
